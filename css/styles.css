@@ -130,6 +130,10 @@ a {
   letter-spacing: 0.02em;
 }
 
+.projects_link {
+  color: var(--text-color1);
+}
+
 .projects_title {
   font-weight: var(--title2-weight);
   font-size: var(--title2-size);
