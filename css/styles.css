@@ -95,6 +95,10 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background-color: #4d5ae5;
+}
+.hiro_button:hover, .hiro_button:focus {
+  background-color: #404bbf;
 }
 
 .our-team {

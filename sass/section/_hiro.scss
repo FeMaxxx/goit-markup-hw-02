@@ -16,4 +16,10 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background-color: $accent-color;
+
+  &:hover,
+  &:focus {
+    background-color: $hover-color;
+  }
 }
